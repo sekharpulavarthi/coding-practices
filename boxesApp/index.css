@@ -1,0 +1,54 @@
+.yellow-box {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.blue-box {
+  background-color: lightblue;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.pink-box {
+  background-color: pink;
+  height: 140px;
+  width: 140px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heading1 {
+  font-size: 15px;
+}
+.heading2 {
+  font-size: 15px;
+}
+.heading3 {
+  font-size: 15px;
+}
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
